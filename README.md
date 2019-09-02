@@ -1,13 +1,9 @@
-# mweb3waves2
-Web3 test app with Waves blockchain
+# mweb3waves
+Mastering Web3 with Waves.
 
-1. Install NodeJS from:
-https://nodejs.org/en/
+Demo: https://netsyde-mweb3waves.herokuapp.com/
 
-2. Check version:
-node -v
-npm -v
-
-3. run 'npm install'
-
-4. run 'node server.js'
+# How to install:
+* yarn or npm install
+* yarn build or npm run build:dev
+* node server.js
